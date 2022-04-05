@@ -1,3 +1,15 @@
+
+for quick view of my task - https://day2-task.vercel.app/
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
